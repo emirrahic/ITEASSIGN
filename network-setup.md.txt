@@ -1,0 +1,36 @@
+ 
+
+ Devices in the Network:
+
+1. Router0:
+   Model: ISR4331
+   IP Address:
+   GigabitEthernet0/0/0: 168.90.0.1
+   GigabitEthernet0/0/1: 210.3.14.1
+
+2. Switch 0:
+   - Model: 2960 IOS15
+   - Connected Devices:
+   - PC0: 168.90.0.2
+   - PC1: 168.90.0.3
+   - Laptop0: 168.90.0.4
+   - Server0: 168.90.0.5
+
+3. Switch 1:
+   - Model: 2960 IOS15
+   - Connected Devices:
+   - PC3: 210.3.14.5
+   - Server1: 210.3.14.3
+   - Server2: 210.3.14.4
+
+ Assigned IP Addresses(USING DHCP):
+
+- Laptop0: 168.90.0.4
+- PC0: 168.90.0.2 
+- PC1: 168.90.0.3 
+- PC3: 210.3.14.5 
+- Server0: 168.90.0.5 
+- Server1: 210.3.14.3 
+- Server2: 210.3.14.4
+
+
